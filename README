@@ -1,3 +1,6 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=744
+This is based on http://www.vim.org/scripts/script.php?script_id=744
 
 dhcpd.vim provides syntax highlighting for ISC DHCP server configuration files dhcpd.conf.
+
+0.? Thu May 29 02:43:26 PDT 2014
+  - Added filename detection support.
